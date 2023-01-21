@@ -11,6 +11,14 @@ pip install nltk
 pip install pandas
 pip install sklearn
 pip install numpy
+pip install streamlit
+```
+
+## To run the website 
+> Run the `main.ipynb` file from top to bottom
+> enter the followinf command in the terminal
+```shell
+streamlit run app.py
 ```
 
 **Accuracy metric yet to be calculated** <br>
